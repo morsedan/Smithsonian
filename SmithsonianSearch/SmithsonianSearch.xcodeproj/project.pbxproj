@@ -14,6 +14,7 @@
 		C0DFA35D241573E5002E440F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0DFA35C241573E5002E440F /* Assets.xcassets */; };
 		C0DFA360241573E5002E440F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0DFA35E241573E5002E440F /* LaunchScreen.storyboard */; };
 		C0DFA36824157407002E440F /* NetworkController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0DFA36724157407002E440F /* NetworkController.swift */; };
+		C0DFA36A24157A51002E440F /* APIKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0DFA36924157A51002E440F /* APIKeys.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C0DFA35F241573E5002E440F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0DFA361241573E5002E440F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C0DFA36724157407002E440F /* NetworkController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkController.swift; sourceTree = "<group>"; };
+		C0DFA36924157A51002E440F /* APIKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIKeys.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				C0DFA355241573E4002E440F /* SceneDelegate.swift */,
 				C0DFA357241573E4002E440F /* ViewController.swift */,
 				C0DFA36724157407002E440F /* NetworkController.swift */,
+				C0DFA36924157A51002E440F /* APIKeys.swift */,
 				C0DFA359241573E4002E440F /* Main.storyboard */,
 				C0DFA35C241573E5002E440F /* Assets.xcassets */,
 				C0DFA35E241573E5002E440F /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C0DFA36824157407002E440F /* NetworkController.swift in Sources */,
+				C0DFA36A24157A51002E440F /* APIKeys.swift in Sources */,
 				C0DFA358241573E4002E440F /* ViewController.swift in Sources */,
 				C0DFA354241573E4002E440F /* AppDelegate.swift in Sources */,
 				C0DFA356241573E4002E440F /* SceneDelegate.swift in Sources */,
